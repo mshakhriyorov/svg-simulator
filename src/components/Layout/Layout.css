@@ -37,7 +37,6 @@
   gap: 32px;
   box-shadow: -2px -2px 8px rgba(0, 0, 0, 0.04), 4px 4px 8px rgba(0, 0, 0, 0.08);
   background-color: aliceblue;
-  height: 100ch;
 }
 
 .layout__image-box {
